@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-label="Vamos transformar sua próxima ideia em uma experiência melhor?">
+    <title>Vamos transformar sua próxima ideia em uma experiência melhor?</title><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071224"/><stop offset=".6" stop-color="#070D18"/><stop offset="1" stop-color="#0C1930"/></linearGradient>
+    <linearGradient id="blue"><stop stop-color="#437BFF"/><stop offset=".55" stop-color="#21BFFF"/><stop offset="1" stop-color="#82F5EB"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1668F3" stop-opacity=".24"/><stop offset="1" stop-color="#1668F3" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sphere" cx=".3" cy=".2"><stop stop-color="#B5FFF3"/><stop offset=".3" stop-color="#30D8EE"/><stop offset=".65" stop-color="#1768EF"/><stop offset="1" stop-color="#0C1B49"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7AA4CF" opacity=".17"/></pattern>
+    </defs><style>text{font-family:'Segoe UI',Arial,sans-serif} .muted{fill:#9EADC6} .white{fill:#F2F6FD} .cyan{fill:#69DCF2} .label{font-size:15px;font-weight:600;letter-spacing:2.5px}</style><rect width="1280" height="190" rx="16" fill="url(#bg)"/>
+<path d="M1 1h1278" stroke="url(#blue)"/>
+<text x="42" y="55" class="cyan" font-size="13" letter-spacing="2.5">SEU PRÓXIMO PROJETO COMEÇA COM UMA CONVERSA</text>
+<text x="40" y="104" class="white" font-size="32" font-weight="600" letter-spacing="-.5">Vamos criar uma experiência melhor?</text>
+<text x="42" y="150" class="muted" font-size="19">atendimento@uxisolutions.com.br</text>
+<circle cx="1190" cy="96" r="31" fill="none" stroke="#3671A0"/>
+<path d="M1176 96h26m-10-10 10 10-10 10" stroke="#6DE0EF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

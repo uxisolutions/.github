@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="UXi Agro — Tecnologia que conecta o campo à gestão">
+    <title>UXi Agro — Tecnologia que conecta o campo à gestão</title><defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071224"/><stop offset=".6" stop-color="#070D18"/><stop offset="1" stop-color="#0C1930"/></linearGradient>
+    <linearGradient id="blue"><stop stop-color="#437BFF"/><stop offset=".55" stop-color="#21BFFF"/><stop offset="1" stop-color="#82F5EB"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1668F3" stop-opacity=".24"/><stop offset="1" stop-color="#1668F3" stop-opacity="0"/></radialGradient>
+    <radialGradient id="sphere" cx=".3" cy=".2"><stop stop-color="#B5FFF3"/><stop offset=".3" stop-color="#30D8EE"/><stop offset=".65" stop-color="#1768EF"/><stop offset="1" stop-color="#0C1B49"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7AA4CF" opacity=".17"/></pattern>
+    </defs><style>text{font-family:'Segoe UI',Arial,sans-serif} .muted{fill:#9EADC6} .white{fill:#F2F6FD} .cyan{fill:#69DCF2} .label{font-size:15px;font-weight:600;letter-spacing:2.5px}</style><rect x="1" y="1" width="1278" height="358" rx="18" fill="#0A181E" stroke="#24403D"/>
+<rect x="1" y="1" width="1278" height="358" rx="18" fill="url(#dots)" opacity=".45"/>
+<text x="48" y="57" fill="#6AD8B4" font-size="14" letter-spacing="3">EM DESTAQUE / UXi AGRO</text>
+<text x="46" y="124" class="white" font-size="44" font-weight="650" letter-spacing="-1">Do campo às vendas.</text>
+<text x="46" y="178" fill="#78DBC3" font-size="44" font-weight="650" letter-spacing="-1">Uma gestão conectada.</text>
+<text x="48" y="229" class="muted" font-size="21">Informações integradas para acompanhar a operação</text>
+<text x="48" y="262" class="muted" font-size="21">e tomar decisões com mais clareza.</text>
+<text x="48" y="318" fill="#8AE0C7" font-size="15" letter-spacing="1">OPERAÇÃO · VENDAS · CUSTOS · INDICADORES</text>
+<g transform="translate(850 53)" fill="none" stroke="#3B9C88" stroke-width="1.4" opacity=".8">
+<path d="M0 185c40-30 100-22 144-65s100-58 190-18M0 212c57-40 114-35 163-74s100-48 172-19M0 239c58-38 116-30 183-75s104-43 153-22M0 266c83-33 133-33 201-73s97-35 133-28"/>
+<path d="M37 151c29-18 68-15 105-55s107-61 191-22M70 118c22-10 43-18 66-45s94-46 155-30" stroke-opacity=".45"/>
+<circle cx="225" cy="37" r="24" fill="#0D2B2B" stroke="#72DBC3"/>
+<path d="m215 37 7 7 14-15" stroke="#97EFDB" stroke-width="2.5"/>
+</g></svg>
